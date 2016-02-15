@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cabara&#39;s blog</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://blog.cabarasoftware.com/</link>
+    <atom:link href="http://blog.cabarasoftware.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 18:35:08 +0200</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 18:35:08 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Ad Injection: The Silent Killer of Cyber Security</title>
+        <description>&lt;p&gt;“I can’t believe we never realized how seriously ad injection is affecting us?!”  This is a common reaction industry leaders are having after they learn truly just how devastating ad injection is for their website. Surprisingly, this problem has remained a relatively small blip on the cyber security radar screen even though for companies that rely on web traffic; it’s a killer.&lt;/p&gt;
+
+&lt;p&gt;Thanks to cloud computing, within the past decade ad injection has become one of the most lucrative strategies among all web injectors. By using binaries, browser toolbars/extensions, and even wireless networks, malicious actors are able to modify content without a website owner’s permission. This is possible due to harmful software that unknowingly infects users who then visit websites and bring the attached software along. The software is then able to inject code into a web page’s HTML and alter the website’s content while also exposing users to adware which perpetuates the entire ad injection ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Ad Injection harm’s websites through a variety of parasitic processes. Firstly, it increases page load latency which drives a percentage of users away  before even entering a website to begin with. This is because when a user is infected with ad injection software, the injected image files take time to download in order to be presented to users. We can see, especially with larger injection images, that what would normally be a short page load turns into a frustrating user experience leading many users to navigate out of the website rather than continuing. Secondly, injected content means that users are seeing a version of the webpage that is not intended. Different types of version’s/attacks people may see include:&lt;/p&gt;
+
+&lt;p&gt;Competitor Coupons/ads:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/example1.jpg&quot; alt=&quot;Competitor Coupons/ads&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Low-quality spam ads:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/example2.jpg&quot; alt=&quot;Low-quality spam ads&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Malvertising:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/example3.jpg&quot; alt=&quot;Malvertising&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;as well as various additional types of ad injections which compromise a user’s experience with a company while simultaneously devaluing the company’s brand. Last but not least some types of injections actually steal site traffic and divert users to a completely different website (sometimes even competition), which lowers conversion rates. It really is no wonder that companies are seeing a chunk of their revenue lost as a result of ad injection.&lt;/p&gt;
+
+&lt;p&gt;Getting rid of ad injection is no easy task as new offenders are popping up daily and are able to keep a low profile by hiding within a complex web of intermediaries.  Additionally, the fact that millions of infected users are surfing the web doesn’t help either. Traditional cyber security processes focus on a protecting a company’s data center and hardware, but ad injection is able to bypass those types of processes as they reside on the client-side.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 05 Dec 2015 14:42:14 +0200</pubDate>
+        <link>http://blog.cabarasoftware.com/ad/injection/2015/12/05/Ad-Injection-The-Silent-Killer-of-Cyber-Security.html</link>
+        <guid isPermaLink="true">http://blog.cabarasoftware.com/ad/injection/2015/12/05/Ad-Injection-The-Silent-Killer-of-Cyber-Security.html</guid>
+        
+        
+        <category>Ad</category>
+        
+        <category>Injection</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+footer p {
+    margin-bottom: 8px;
+}
+
+#page-footer {
+    padding-top: 10px;
+}
+
+ul.footer-social-links {
+    padding: 0;
+    text-align: left;
+}
